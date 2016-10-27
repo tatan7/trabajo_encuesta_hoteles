@@ -1,0 +1,16 @@
+/* Space out content a bit */
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+
+/* Custom page header */
+/* Make the masthead heading the same height as the navigation */
+
+/* Custom page footer */
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+

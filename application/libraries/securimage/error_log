@@ -1,0 +1,5 @@
+[21-Apr-2012 21:03:03 UTC] PHP Fatal error:  Call to undefined function imagecreate() in /home/wannabec/public_html/securimage/securimage.php on line 675
+[23-Apr-2012 17:46:49 UTC] PHP Fatal error:  Call to undefined function imagettfbbox() in /home/wannabec/public_html/securimage/securimage.php on line 867
+[23-Apr-2012 17:48:10 UTC] PHP Fatal error:  Call to undefined function imagettfbbox() in /home/wannabec/public_html/securimage/securimage.php on line 867
+[23-Apr-2012 17:48:11 UTC] PHP Fatal error:  Call to undefined function imagettfbbox() in /home/wannabec/public_html/securimage/securimage.php on line 867
+[23-Apr-2012 17:48:25 UTC] PHP Fatal error:  Call to undefined function imagettfbbox() in /home/wannabec/public_html/securimage/securimage.php on line 867

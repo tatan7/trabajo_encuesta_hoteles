@@ -1,0 +1,36 @@
+body{background: #f6f6f6 !important;font-family: 'Roboto'}
+.navbar{min-height: 80px; border-radius: 0px;}
+.Logo h3{color:#fff;}
+.Logo img{width: 50%;}
+.SpaceQuestion{padding: 15px;}
+.pie{margin-top: 50px;}
+.EnviarButton{margin: 10px;}
+.clear{clear: both;}
+
+.cabeza{background:#337AB7;border-bottom:1px solid #2E6DA4;}
+.menuDesp{background: #2E6DA4;color:#fff;margin:5% 0 0 0;}
+.menuDesp:hover > a{color:#2E6DA4;}
+.menuDesp:hover > a > b{color:#2E6DA4;}
+.menuDesp a{color:#fff}
+.menuDesp b{color:#fff}
+.present{background: #5498CF}
+.jbtrn{background: transparent !important;color:#fff;}
+
+.padding{padding: 2%}
+.HoSpace{padding: 5%}
+.HoSpace > img { filter: grayscale(100%);
+-webkit-filter: grayscale(100%);
+-moz-filter: grayscale(100%);
+-ms-filter: grayscale(100%);
+-o-filter: grayscale(100%);
+}
+
+.HoSpace:hover > img { filter: grayscale(0%);
+-webkit-filter: grayscale(0%);
+-moz-filter: grayscale(0%);
+-ms-filter: grayscale(0%);
+-o-filter: grayscale(0%);
+}
+
+.pie{background: #CACACA}
+.ng-cloak{}
